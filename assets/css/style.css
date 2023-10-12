@@ -1,0 +1,82 @@
+.header {
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 60px;
+    margin-top:20px;
+    width: 60%;
+}
+
+.header p{
+    font-size:80%;
+    margin: 0px;
+    line-height: 1.5;
+}
+
+.navigation { 
+    display:flex;
+    flex-wrap: nowrap;
+    background-color: none;
+    margin:10px 0 0 10px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.navigation h2 {
+    margin-bottom: 20px;
+    
+}
+
+aside {
+    position: absolute;
+    top:5px;
+    right:5px;
+    max-width:100px;
+    max-height:150px;
+}
+
+#first-deployed-application {
+    margin:100px 0 100px 0;
+    max-height: 600px;
+    width: 600px;
+    padding: 30px;
+    border-style: solid;
+    border-width: 2px;
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+#first-deployed-application p {
+    text-align: center;
+}
+
+#first-deployed-application a img {
+    width:100%;
+    max-height: 100%;
+}
+
+body main .flexbox-other-works {
+    padding: 20px;
+    background-color: aqua;
+    max-width: 20%;
+    max-height: 20%;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+footer { 
+    background-color:none;
+}
+
+footer div {
+    margin-left: 30px;
+    line-height:1.5;
+    font-size: 150%;
+    margin-top: 20px;
+    
+}
+
+footer div ul li {
+    list-style:square;
+}
