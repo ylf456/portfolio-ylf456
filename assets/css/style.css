@@ -23,16 +23,15 @@
 }
 
 .navigation h2 {
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;   
 }
 
-aside {
+aside img {
     position: absolute;
-    top:5px;
-    right:5px;
-    max-width:100px;
-    max-height:150px;
+    top:30px;
+    left:700px;
+    max-width:300px;
+    max-height:300px;
 }
 
 #first-deployed-application {
@@ -93,8 +92,7 @@ footer div {
     margin: 100px 0 100px 50px;
     line-height:1.5;
     font-size: 150%;
-    margin-top: 20px;
-    
+    margin-top: 20px;   
 }
 
 footer div ul li {
