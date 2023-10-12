@@ -67,8 +67,12 @@ body main .flexbox-other-works {
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    
+    text-align: center;
+}
 
+body main .flexbox-other-works span {
+    font-weight: bold;
+    font-size: 125%;
 }
 
 body main .flexbox-other-works div {
@@ -79,14 +83,14 @@ body main .flexbox-other-works div {
     border-color: black;
     max-width: 45%;
     max-height: 45%;
-  
 }
+
 footer { 
     background-color:none;
 }
 
 footer div {
-    margin-left: 30px;
+    margin: 100px 0 100px 50px;
     line-height:1.5;
     font-size: 150%;
     margin-top: 20px;
