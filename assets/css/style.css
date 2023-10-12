@@ -11,6 +11,7 @@
     font-size:80%;
     margin: 0px;
     line-height: 1.5;
+    text-indent: 5%;
 }
 
 .navigation { 
@@ -95,6 +96,10 @@ footer {
     background-color:none;
 }
 
+h3 {
+    font-size: 130%;
+}
+
 footer div {
     margin: 100px 0 100px 50px;
     line-height:1.5;
@@ -150,13 +155,12 @@ footer div ul li {
             max-height:50%;    
         }
         body main .flexbox-other-works {
-            max-width:100%;
+            max-width:80%;
             max-height:30%;
             align-items: center;
         }
         body main .flexbox-other-works div {
             max-height:35%;
-           
         }    
 }
 
