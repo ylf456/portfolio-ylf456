@@ -12,6 +12,11 @@ aside {
 }
 */
 
+aside {
+    font-weight: bold;
+    font-size: 150%;
+}
+
 .header h1 {
     font-size: 200%;
     font-family: 'Times New Roman', Times, serif;
@@ -71,6 +76,8 @@ aside {
     flex: 2 0 80%;
     margin-left: 3%;
     text-indent: 5%;
+    font-size: 85%;
+    font-weight:1;
 }
 
 aside #work {
@@ -114,6 +121,8 @@ aside #work {
 
 #first-deployed-application p {
     text-align: center;
+    font-size: 150%;
+    font-weight: bold;
 }
 
 #first-deployed-application a img {
@@ -182,11 +191,12 @@ footer div ul {
     border-style: solid;
     border-radius: 3px;
     flex: 2 0 80%;
-    margin-left: 3%;
+    margin-left: 2%;
     text-indent: 5%;
 }
 
 footer div ul li {
+    font-size: 120%;
     list-style: none;
 }
 
