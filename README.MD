@@ -20,6 +20,12 @@ N/A
 
 N/A
 
+## Link to this application
+
+deployed webpage : https://ylf456.github.io/portfolio-ylf456/
+
+online repo: https://github.com/ylf456/portfolio-ylf456.git 
+
 ## Screenshot
 
 ![This is a screenshot of my portfolio](./assets/Images/screenshot-portfolio.png)
